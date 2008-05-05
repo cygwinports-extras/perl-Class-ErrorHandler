@@ -1,0 +1,5 @@
+category: Perl
+requires: perl
+sdesc: "Perl error handling module"
+ldesc: "This is Class::ErrorHandler, a base class for classes that need 
+to do error handling (which is, probably, most of them)."
