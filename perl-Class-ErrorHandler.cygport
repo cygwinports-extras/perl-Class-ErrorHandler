@@ -1,9 +1,9 @@
-CPAN_AUTHOR=btrott
+CPAN_AUTHOR=tokuhirom
 inherit perl
 
 NAME="perl-Class-ErrorHandler"
-VERSION=0.01
-RELEASE=2
+VERSION=0.04
+RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl distribution Class-ErrorHandler"
 DESCRIPTION="Class::ErrorHandler provides an error-handling mechanism that is
